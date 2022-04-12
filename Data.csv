@@ -1,0 +1,11 @@
+country ,age,salary,purchased
+demak ,45,72000,yes
+semarang ,28,48000,no
+kendal,30,55000,yes
+demak ,33,60000,yes
+semarang ,47,,no
+kendal,31,58000,no
+demak ,,52000,no
+semarang ,48,79000,yes
+kendal,50,82000,no
+demak ,37,67000,yes
