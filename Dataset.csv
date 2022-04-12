@@ -1,11 +1,14 @@
-country ,age,salary,purchased
-demak ,45,72000,yes
-semarang ,28,48000,no
-kendal,30,55000,yes
-demak ,33,60000,yes
-semarang ,47,,no
-kendal,31,58000,no
-demak ,,52000,no
-semarang ,48,79000,yes
-kendal,50,82000,no
-demak ,37,67000,yes
+﻿index ,user ID ,gender ,age ,estimated salary,purchased 
+0,15845154,male ,19,19000,0
+1,16511316,male,20,20000,0
+2,11135111,female ,22,59000,0
+3,15133033,female ,53,32000,0
+4,11113511,female ,25,14000,0
+5,11513252,male ,40,24000,0
+6,11131335,male ,15,30000,0
+7,11155321,female,28,35000,1
+8,15538131,male,25,42000,0
+9,15361385,male ,27,30000,0
+10,10513315,female ,19,15000,0
+11,15531365,male ,18,27000,0
+12,11851515,female,52,20000,0
